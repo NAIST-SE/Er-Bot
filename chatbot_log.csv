@@ -1,0 +1,181 @@
+id,message,response,score,chatbot
+1751,syntax error,Sorry I dont understand.,1,P1
+1752,maximum limit,Sorry I dont understand.,1,P1
+1753,error,Sorry I dont understand.,1,P1
+1754,index error,Sorry I dont understand.,1,P1
+1755,index,Sorry I dont understand.,1,P1
+1756,zero division error,"It is not possible to perform division using zero as a denominator, or to use zero as modulus a number.
+Do you need another answers?",1,P1
+1757,SyntaxError: invalid syntax,"SyntaxError means a function or a command has been misspelled. It is also likely to that the mispelled word is a reference to variable.
+Do you need another answers?",1,P1
+1790,hello,Sorry I dont understand.,1,P2
+1791,こんにちは,Sorry I dont understand.,1,P2
+1792,name error,Sorry I dont understand.,1,P2
+1793,nameError,Sorry I dont understand.,1,P2
+1794,index error,Sorry I dont understand.,1,P2
+1795,syntaxError,"SyntaxError means a function or a command has been misspelled. It is also likely to that the mispelled word is a reference to variable.
+Do you need another answers?",1,P2
+1796,indexError,"This generally means that you are providing index value for which a list element does not exist.
+Do you need another answers?",1,P2
+1797,syntaxerror,"SyntaxError means a function or a command has been misspelled. It is also likely to that the mispelled word is a reference to variable.
+Do you need another answers?",1,P3
+1798,attributeerror,"It is not possible to append an element to an integer.
+Do you need another answers?",1,P3
+1799,typeerror,"You're creating a float as a result - to fix this use the int division operator: for i in range(c // 10):
+Do you need another answers?",1,P3
+1800,reverse function,Sorry I dont understand.,1,P6
+1801,"Traceback (most recent call last):   File ""C:\Users\se-guest\Desktop\test.py"", line 7, in <module>     reverse(input1)   File ""C:\Users\se-guest\Desktop\test.py"", line 4, in reverse     output = reverse(input1.split("" ""))   File ""C:\Users\se-guest\Desktop\test.py"", line 4, in reverse     output = reverse(input1.split("" "")) AttributeError: 'list' object has no attribute 'split'","It is not possible to append an element to an integer.
+Do you need another answers?",1,P6
+1802,yes,"Sorry, There is no more answer",1,P6
+1803,"Traceback (most recent call last):   File ""C:\Users\se-guest\Desktop\pycee_test.py"", line 3, in <module>     print([i for i in input1 if i not in input2] - [i for i in input2 if i not in input1] ) TypeError: unsupported operand type(s) for -: 'list' and 'list'","You're creating a float as a result - to fix this use the int division operator: for i in range(c // 10):
+Do you need another answers?",1,P7
+1804,yes,"To perform integer division, use double '/' ('//') instead of '/'. For exaple, change N=2/h to N=2//h
+Do you need another answers?",1,P7
+1805,yes,"Sorry, There is no more answer",1,P7
+1806,inconsistent use of tabs and spaces in indentation,"Other posters are probably correct...there might be spaces mixed in with your tabs. Try doing a search & replace to replace all tabs with a few spaces.
+Do you need another answers?",1,P8
+1807,Hi,Sorry I dont understand.,1,P9
+1808,what,Sorry I dont understand.,1,P9
+1809,how to use list,Sorry I dont understand.,1,P9
+1810,how to append list,Sorry I dont understand.,1,P9
+1811,how to use for,Sorry I dont understand.,1,P9
+1812,SyntaxError: invalid syntax,"SyntaxError means a function or a command has been misspelled. It is also likely to that the mispelled word is a reference to variable.
+Do you need another answers?",1,P9
+1813,function definition,Sorry I dont understand.,1,P11
+1814,indentation error,Sorry I dont understand.,1,P11
+1815,name is not defined,"The error you're getting is due to the variable word being uninitialized. To check the existence of a local variable, if 'myVar' in locals():
+Do you need another answers?",1,P11
+1816,yes,"Sorry, There is no more answer",1,P11
+1817,YEs,"Sorry, There is no more answer",1,P11
+1818,Yes,"Sorry, There is no more answer",1,P11
+1819,user input,Sorry I dont understand.,1,P11
+1820,while loop,Your welcome.,1,P11
+1821,Privide me while loop example,Your welcome.,1,P11
+1822,SyntaxError: invalid syntax,"SyntaxError means a function or a command has been misspelled. It is also likely to that the mispelled word is a reference to variable.
+Do you need another answers?",1,P11
+1823,Yes,"Check the code before the print line for errors. This can be caused by an error in a previous line, or if you have some brackets missing before the print line or something similar it can cause such an error.
+Do you need another answers?",1,P11
+1824,No,Your welcome.,1,P11
+1825,What is SyntaxError,"SyntaxError means a function or a command has been misspelled. It is also likely to that the mispelled word is a reference to variable.
+Do you need another answers?",1,P10
+1826,WHat is Syntazerror,Sorry I dont understand.,1,P10
+1827,how to use if,Sorry I dont understand.,1,P10
+1828,how to compare string,Sorry I dont understand.,1,P10
+1829,python convert list to string,"The mathematical operation is mathematically undefined, therefore a Python exception has been raised.
+Do you need another answers?",1,P10
+1830,yes,"Use tuple instead of tuples instead of dictionary. Like :('FR', 'Freshman'), ('SO', 'Sophomore'), ('JR', 'Junior'), ('SR', 'Senior'), )
+Do you need another answers?",1,P10
+1831,how to split string,Sorry I dont understand.,1,P10
+1832,how to find specific character in string,"The mathematical operation is mathematically undefined, therefore a Python exception has been raised.
+Do you need another answers?",1,P10
+1833,yes,"Use tuple instead of tuples instead of dictionary. Like :('FR', 'Freshman'), ('SO', 'Sophomore'), ('JR', 'Junior'), ('SR', 'Senior'), )
+Do you need another answers?",1,P10
+1834,"File ""C:\Users\se-guest\Desktop\test.py"", line 10     else           ^ SyntaxError: invalid syntax","SyntaxError means a function or a command has been misspelled. It is also likely to that the mispelled word is a reference to variable.
+Do you need another answers?",1,P12
+1835,"File ""C:\Users\se-guest\Desktop\test.py"", line 10     else           ^ SyntaxError: invalid syntax","SyntaxError means a function or a command has been misspelled. It is also likely to that the mispelled word is a reference to variable.
+Do you need another answers?",1,P12
+1836,yes,"Check the code before the print line for errors. This can be caused by an error in a previous line, or if you have some brackets missing before the print line or something similar it can cause such an error.
+Do you need another answers?",1,P12
+1837,"File ""C:\Users\se-guest\Desktop\test.py"", line 13     return s=s[::-1]             ^ SyntaxError: invalid syntax","SyntaxError means a function or a command has been misspelled. It is also likely to that the mispelled word is a reference to variable.
+Do you need another answers?",1,P12
+1838,yes,"Check the code before the print line for errors. This can be caused by an error in a previous line, or if you have some brackets missing before the print line or something similar it can cause such an error.
+Do you need another answers?",1,P12
+1839,ZeroDivisionError: division by zero,"It is not possible to perform division using zero as a denominator, or to use zero as modulus a number.
+Do you need another answers?",1,P12
+1840,yes,"Make sure that the denominator, or the modulus number, is not equal to zero.
+Do you need another answers?",1,P12
+1841,SyntaxError: invalid syntax,"SyntaxError means a function or a command has been misspelled. It is also likely to that the mispelled word is a reference to variable.
+Do you need another answers?",1,P5
+1842,SyntaxError: Missing parentheses in call to 'print'. Did you mean print(Hi)?,"SyntaxError means a function or a command has been misspelled. It is also likely to that the mispelled word is a reference to variable.
+Do you need another answers?",1,P5
+1843,Hello,Sorry I dont understand.,1,P5
+1844,Hi,Sorry I dont understand.,1,P5
+1845,TypeError,"You're creating a float as a result - to fix this use the int division operator: for i in range(c // 10):
+Do you need another answers?",1,P5
+1846,NameError,Sorry I dont understand.,0,P5
+1847,ZeroDivisionError,Sorry I dont understand.,0,P5
+1848,Hello,Sorry I dont understand.,1,P4
+1849,RuntimeError,Sorry I dont understand.,0,P5
+1850,What is indent?,Sorry I dont understand.,1,P4
+1851,SyntaxError: unexpected character after line continuation character,"SyntaxError means a function or a command has been misspelled. It is also likely to that the mispelled word is a reference to variable.
+Do you need another answers?",1,P4
+1852,Modulenotfound?,Sorry I dont understand.,1,P4
+1853,Coredump?,Sorry I dont understand.,1,P4
+1854,IndexError: list index out of range,"This generally means that you are providing index value for which a list element does not exist.
+Do you need another answers?",1,P4
+1855,Error,Sorry I dont understand.,1,P4
+1856,IndexError,"This generally means that you are providing index value for which a list element does not exist.
+Do you need another answers?",1,P4
+1857,MemoryError,Sorry I dont understand.,1,P4
+1858,SyntaxError,"SyntaxError means a function or a command has been misspelled. It is also likely to that the mispelled word is a reference to variable.
+Do you need another answers?",1,P4
+1859,RuntimeError,Sorry I dont understand.,1,P4
+1860,CompliedError,Sorry I dont understand.,1,P4
+1861,FileNotFound,Sorry I dont understand.,1,P4
+1862,MemoryLeak,Sorry I dont understand.,1,P4
+1863,MisMatch Version,Sorry I dont understand.,1,P4
+1864,How to create the loop,Sorry I dont understand.,1,P14
+1865,SyntaxError: invalid syntax,"SyntaxError means a function or a command has been misspelled. It is also likely to that the mispelled word is a reference to variable.
+Do you need another answers?",1,P14
+1866,yes,"Check the code before the print line for errors. This can be caused by an error in a previous line, or if you have some brackets missing before the print line or something similar it can cause such an error.
+Do you need another answers?",1,P14
+1867,what is None object,Your welcome.,1,P13
+1868,yes,"The syntax was incorrect. This could be due to missing colon block symbol (':') or mispelled command.
+Do you need another answers?",1,P14
+1869,TypeError: not all arguments converted during string formatting,"You're creating a float as a result - to fix this use the int division operator: for i in range(c // 10):
+Do you need another answers?",1,P13
+1870,SyntaxError: closing parenthesis ')' does not match opening parenthesis '[',"SyntaxError means a function or a command has been misspelled. It is also likely to that the mispelled word is a reference to variable.
+Do you need another answers?",1,P14
+1871,out of index error,"This generally means that you are providing index value for which a list element does not exist.
+Do you need another answers?",1,P13
+1872,yes,"Generally it means that you are providing an index for which a list element does not exist. For example if your list was [1, 3, 5, 7], and you asked for the element at index 10, you would be well out of bounds and receive an error, as only elements 0 through 3 exist.
+Do you need another answers?",1,P13
+1873,OS error,Sorry I dont understand.,1,P13
+1874,OSError,Sorry I dont understand.,1,P13
+1875,NameError,Sorry I dont understand.,1,P13
+1876,How can I debug this error?,"What was your exception? Copy and paste the exception from your compiler. For example: 'IndexError: list index out of range'
+Do you need another answers?",1,P15
+1877, 'IndexError: list index out of range',"This generally means that you are providing index value for which a list element does not exist.
+Do you need another answers?",1,P15
+1878,How can I fix?,Explain your problem.,1,P15
+1879,How can I fix  'IndexError: list index out of range',"This generally means that you are providing index value for which a list element does not exist.
+Do you need another answers?",1,P15
+1880,SyntaxError: invalid syntax,"SyntaxError means a function or a command has been misspelled. It is also likely to that the mispelled word is a reference to variable.
+Do you need another answers?",1,P15
+1881,hello,Sorry I dont understand.,1,P16
+1882,error found,Sorry I dont understand.,1,P16
+1883,I found some error,"What was your exception? Copy and paste the exception from your compiler. For example: 'IndexError: list index out of range'
+Do you need another answers?",1,P16
+1884,SyntaxError: invalid syntax,"SyntaxError means a function or a command has been misspelled. It is also likely to that the mispelled word is a reference to variable.
+Do you need another answers?",1,P16
+1885,yes,"Check the code before the print line for errors. This can be caused by an error in a previous line, or if you have some brackets missing before the print line or something similar it can cause such an error.
+Do you need another answers?",1,P16
+1886,yes,"The syntax was incorrect. This could be due to missing colon block symbol (':') or mispelled command.
+Do you need another answers?",1,P16
+1887,yes,"Sorry, There is no more answer",1,P16
+1888,why,Sorry I dont understand.,1,P16
+1889,really,Sorry I dont understand.,1,P16
+1890,UnboundLocalError: local variable 'string' referenced before assignment,"You defined a variable in one function and then tried to use it in another. One solution would be to create a class and then say self.x.
+Do you need another answers?",1,P16
+1891,,Sorry I dont understand.,1,P16
+1892,n,Sorry I dont understand.,1,P16
+1893,N,Sorry I dont understand.,1,P16
+1894,yes,"Sorry, There is no more answer",1,P16
+1895,error,Sorry I dont understand.,1,P16
+1896, NameError: name 'dummy' is not defined,"The error you're getting is due to the variable word being uninitialized. To check the existence of a local variable, if 'myVar' in locals():
+Do you need another answers?",1,P16
+1897,Error: name 'dummy' is not defined,"The error you're getting is due to the variable word being uninitialized. To check the existence of a local variable, if 'myVar' in locals():
+Do you need another answers?",1,P16
+1898,Error:'dummy' is not defined,"The error you're getting is due to the variable word being uninitialized. To check the existence of a local variable, if 'myVar' in locals():
+Do you need another answers?",1,P16
+1899,name 'dummy' is not,Sorry I dont understand.,1,P16
+1900,name 'dummy' is not defined,"The error you're getting is due to the variable word being uninitialized. To check the existence of a local variable, if 'myVar' in locals():
+Do you need another answers?",1,P16
+1901,Traceback (most recent call last):,"The mathematical operation is mathematically undefined, therefore a Python exception has been raised.
+Do you need another answers?",1,P16
+1902,"File ""C:\Users\se-guest\Desktop\test.py"", line 6, in <module>","The python package or module you are trying to import cannot be found. Please check wether you spelled the name of the module or package correctly.
+Do you need another answers?",1,P16
+1903,y,Sorry I dont understand.,1,P16
+1904,sure,Sorry I dont understand.,1,P16
+1905,yep,Sorry I dont understand.,1,P16
+1906,yes,"Sorry, There is no more answer",1,P16
