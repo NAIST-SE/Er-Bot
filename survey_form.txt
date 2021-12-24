@@ -1,0 +1,3 @@
+Q1: How satisfied are you with using a ChatBot to find the best answer? 
+
+Q2: What are your thoughts on using a ChatBot to discover the best answer?

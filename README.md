@@ -10,11 +10,11 @@ A key hurdle that students face when first learning how to program is difficulty
 
 ## Contents
 * `Videos` - recordings of experiment sessions
-* `Coding Exercises` - Python coding exercises used in the experiment
+* `coding_exercises.txt` - Python coding exercises used in the experiment
 * `chat_log.csv` - chat log between participants and Er-Bot
 * `survey_responses.csv` - responses from the participants about
 * `survey_form.txt` - Questions in the survey form
-* `Human_ethics_approval.pdf` - Ethical approval document
+* `README.md` - This file
 
 <!-- ## Contents (old)
 * `Dataset` - a directory of the dataset
